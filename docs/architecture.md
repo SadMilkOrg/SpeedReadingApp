@@ -3,6 +3,6 @@
 # Технологии
 Для создания приложения будет использоваться фреймворк Flutter, что даст возможность реализации и продвижения сразу на двух платформах IOS и Android.
 
-[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://github.com/SadMilkOrg/SpeedReadingApp/blob/main/docs/Diagram.png)
+[![This is an image](https://github.com/SadMilkOrg/SpeedReadingApp/blob/main/docs/Diagram.png?raw=true)
 
 (README.md)
