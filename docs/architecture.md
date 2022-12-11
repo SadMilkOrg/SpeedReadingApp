@@ -4,5 +4,3 @@
 Для создания приложения будет использоваться фреймворк Flutter, что даст возможность реализации и продвижения сразу на двух платформах IOS и Android.
 
 ![This is an image](https://github.com/SadMilkOrg/SpeedReadingApp/blob/main/docs/Diagram.png?raw=true)
-
-(README.md)
