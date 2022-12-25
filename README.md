@@ -4,3 +4,5 @@
 [Архитектура проекта](docs/architecture.md)
 
 [Процессы на проекте](docs/process.md)
+
+[Команда](docs/team.md)
